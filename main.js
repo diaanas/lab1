@@ -1,1 +1,1 @@
-console.log('2KH20B lab1')
+console.log('hello 2KH20B lab1')
